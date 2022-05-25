@@ -5,3 +5,4 @@ Code untuk klasifikasi video deepfake menggunakan metode Filter Gaussian dan Loc
 dataset kami merupakan dataset yang dibuat dengan sumber dasar dataset Celeb-DF(V2)
 
 Silahkan mencamtumkan jika menggunakan hasil penelitian kami
+https://www.researchgate.net/publication/359585137_Quick_Classification_of_Xception_And_Resnet-50_Models_on_Deepfake_Video_Using_Local_Binary_Pattern
